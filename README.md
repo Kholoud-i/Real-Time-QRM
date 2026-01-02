@@ -7,7 +7,7 @@ The system supports:
 
 **Early detection** of safety risks  
 **Quantitative prioritization** of adverse events  
-**Data-driven egulatory decision** support  
+**Data-driven regulatory decision-making**  
 **Scalable integration** into healthcare pipelines
 
 ## Key Concepts
