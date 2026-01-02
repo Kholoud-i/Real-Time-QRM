@@ -1,5 +1,5 @@
 # Real-Time-QRM
-## Project Overview
+## Overview
 This project implements a quantitative risk management system in Python designed to support pharmacovigilance operations.
 It continuously evaluates patient safety signals by estimating, scoring, and prioritizing potential adverse drug risks using statistical and probabilistic models.
 
